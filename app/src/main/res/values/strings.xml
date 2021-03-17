@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="textview">TextView</string>
+    <string name="apasa_aici">Apasa aici</string>
+    <string name="jucator_x">Jucator X:</string>
+    <string name="jucator_o">Jucator O:</string>
+    <string name="jucator_o_0">Jucator O:0</string>
+    <string name="jucator_x_0">Jucator X:0</string>
+    <string name="end_game">End Game</string>
+    <string name="game_over">GAME OVER</string>
+</resources>
